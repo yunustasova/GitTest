@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var textlabel="asdasdasd"
     override func viewDidLoad() {
         super.viewDidLoad()
        
