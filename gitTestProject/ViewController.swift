@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         print("Hello Sikim")
+        print("Second Update")
     }
 
 
